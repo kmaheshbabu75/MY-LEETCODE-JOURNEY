@@ -11,4 +11,8 @@ Clean, well-documented LeetCode solutions in java covering core algorithms and d
 |  |
 | ------- |
 | [0283-move-zeroes](https://github.com/kmaheshbabu75/MY-LEETCODE-JOURNEY/tree/master/0283-move-zeroes) |
+## Math
+|  |
+| ------- |
+| [3870-count-commas-in-range](https://github.com/kmaheshbabu75/MY-LEETCODE-JOURNEY/tree/master/3870-count-commas-in-range) |
 <!---LeetCode Topics End-->

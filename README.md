@@ -7,6 +7,7 @@ Clean, well-documented LeetCode solutions in java covering core algorithms and d
 |  |
 | ------- |
 | [0283-move-zeroes](https://github.com/kmaheshbabu75/MY-LEETCODE-JOURNEY/tree/master/0283-move-zeroes) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/kmaheshbabu75/MY-LEETCODE-JOURNEY/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Two Pointers
 |  |
 | ------- |
@@ -15,4 +16,8 @@ Clean, well-documented LeetCode solutions in java covering core algorithms and d
 |  |
 | ------- |
 | [3870-count-commas-in-range](https://github.com/kmaheshbabu75/MY-LEETCODE-JOURNEY/tree/master/3870-count-commas-in-range) |
+## Hash Table
+|  |
+| ------- |
+| [3718-smallest-missing-multiple-of-k](https://github.com/kmaheshbabu75/MY-LEETCODE-JOURNEY/tree/master/3718-smallest-missing-multiple-of-k) |
 <!---LeetCode Topics End-->

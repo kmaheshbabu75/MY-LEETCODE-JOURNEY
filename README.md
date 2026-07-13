@@ -15,9 +15,14 @@ Clean, well-documented LeetCode solutions in java covering core algorithms and d
 ## Math
 |  |
 | ------- |
+| [3726-remove-zeros-in-decimal-representation](https://github.com/kmaheshbabu75/MY-LEETCODE-JOURNEY/tree/master/3726-remove-zeros-in-decimal-representation) |
 | [3870-count-commas-in-range](https://github.com/kmaheshbabu75/MY-LEETCODE-JOURNEY/tree/master/3870-count-commas-in-range) |
 ## Hash Table
 |  |
 | ------- |
 | [3718-smallest-missing-multiple-of-k](https://github.com/kmaheshbabu75/MY-LEETCODE-JOURNEY/tree/master/3718-smallest-missing-multiple-of-k) |
+## Simulation
+|  |
+| ------- |
+| [3726-remove-zeros-in-decimal-representation](https://github.com/kmaheshbabu75/MY-LEETCODE-JOURNEY/tree/master/3726-remove-zeros-in-decimal-representation) |
 <!---LeetCode Topics End-->

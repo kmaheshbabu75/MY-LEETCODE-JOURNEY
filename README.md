@@ -7,6 +7,7 @@ Clean, well-documented LeetCode solutions in java covering core algorithms and d
 |  |
 | ------- |
 | [0283-move-zeroes](https://github.com/kmaheshbabu75/MY-LEETCODE-JOURNEY/tree/master/0283-move-zeroes) |
+| [3162-find-the-number-of-good-pairs-i](https://github.com/kmaheshbabu75/MY-LEETCODE-JOURNEY/tree/master/3162-find-the-number-of-good-pairs-i) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/kmaheshbabu75/MY-LEETCODE-JOURNEY/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Two Pointers
 |  |
@@ -21,6 +22,7 @@ Clean, well-documented LeetCode solutions in java covering core algorithms and d
 ## Hash Table
 |  |
 | ------- |
+| [3162-find-the-number-of-good-pairs-i](https://github.com/kmaheshbabu75/MY-LEETCODE-JOURNEY/tree/master/3162-find-the-number-of-good-pairs-i) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/kmaheshbabu75/MY-LEETCODE-JOURNEY/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Simulation
 |  |

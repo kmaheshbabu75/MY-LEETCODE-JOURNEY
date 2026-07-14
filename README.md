@@ -15,6 +15,7 @@ Clean, well-documented LeetCode solutions in java covering core algorithms and d
 ## Math
 |  |
 | ------- |
+| [3560-find-minimum-log-transportation-cost](https://github.com/kmaheshbabu75/MY-LEETCODE-JOURNEY/tree/master/3560-find-minimum-log-transportation-cost) |
 | [3726-remove-zeros-in-decimal-representation](https://github.com/kmaheshbabu75/MY-LEETCODE-JOURNEY/tree/master/3726-remove-zeros-in-decimal-representation) |
 | [3870-count-commas-in-range](https://github.com/kmaheshbabu75/MY-LEETCODE-JOURNEY/tree/master/3870-count-commas-in-range) |
 ## Hash Table

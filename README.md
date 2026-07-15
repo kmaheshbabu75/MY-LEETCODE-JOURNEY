@@ -7,12 +7,14 @@ Clean, well-documented LeetCode solutions in java covering core algorithms and d
 |  |
 | ------- |
 | [0283-move-zeroes](https://github.com/kmaheshbabu75/MY-LEETCODE-JOURNEY/tree/master/0283-move-zeroes) |
+| [2367-number-of-arithmetic-triplets](https://github.com/kmaheshbabu75/MY-LEETCODE-JOURNEY/tree/master/2367-number-of-arithmetic-triplets) |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/kmaheshbabu75/MY-LEETCODE-JOURNEY/tree/master/3162-find-the-number-of-good-pairs-i) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/kmaheshbabu75/MY-LEETCODE-JOURNEY/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Two Pointers
 |  |
 | ------- |
 | [0283-move-zeroes](https://github.com/kmaheshbabu75/MY-LEETCODE-JOURNEY/tree/master/0283-move-zeroes) |
+| [2367-number-of-arithmetic-triplets](https://github.com/kmaheshbabu75/MY-LEETCODE-JOURNEY/tree/master/2367-number-of-arithmetic-triplets) |
 ## Math
 |  |
 | ------- |
@@ -22,6 +24,7 @@ Clean, well-documented LeetCode solutions in java covering core algorithms and d
 ## Hash Table
 |  |
 | ------- |
+| [2367-number-of-arithmetic-triplets](https://github.com/kmaheshbabu75/MY-LEETCODE-JOURNEY/tree/master/2367-number-of-arithmetic-triplets) |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/kmaheshbabu75/MY-LEETCODE-JOURNEY/tree/master/3162-find-the-number-of-good-pairs-i) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/kmaheshbabu75/MY-LEETCODE-JOURNEY/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Simulation
@@ -32,4 +35,8 @@ Clean, well-documented LeetCode solutions in java covering core algorithms and d
 |  |
 | ------- |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/kmaheshbabu75/MY-LEETCODE-JOURNEY/tree/master/2220-minimum-bit-flips-to-convert-number) |
+## Enumeration
+|  |
+| ------- |
+| [2367-number-of-arithmetic-triplets](https://github.com/kmaheshbabu75/MY-LEETCODE-JOURNEY/tree/master/2367-number-of-arithmetic-triplets) |
 <!---LeetCode Topics End-->

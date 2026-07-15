@@ -28,4 +28,8 @@ Clean, well-documented LeetCode solutions in java covering core algorithms and d
 |  |
 | ------- |
 | [3726-remove-zeros-in-decimal-representation](https://github.com/kmaheshbabu75/MY-LEETCODE-JOURNEY/tree/master/3726-remove-zeros-in-decimal-representation) |
+## Bit Manipulation
+|  |
+| ------- |
+| [2220-minimum-bit-flips-to-convert-number](https://github.com/kmaheshbabu75/MY-LEETCODE-JOURNEY/tree/master/2220-minimum-bit-flips-to-convert-number) |
 <!---LeetCode Topics End-->

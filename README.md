@@ -9,6 +9,7 @@ Clean, well-documented LeetCode solutions in java covering core algorithms and d
 | [0283-move-zeroes](https://github.com/kmaheshbabu75/MY-LEETCODE-JOURNEY/tree/master/0283-move-zeroes) |
 | [2367-number-of-arithmetic-triplets](https://github.com/kmaheshbabu75/MY-LEETCODE-JOURNEY/tree/master/2367-number-of-arithmetic-triplets) |
 | [2395-find-subarrays-with-equal-sum](https://github.com/kmaheshbabu75/MY-LEETCODE-JOURNEY/tree/master/2395-find-subarrays-with-equal-sum) |
+| [2549-count-distinct-numbers-on-board](https://github.com/kmaheshbabu75/MY-LEETCODE-JOURNEY/tree/master/2549-count-distinct-numbers-on-board) |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/kmaheshbabu75/MY-LEETCODE-JOURNEY/tree/master/3162-find-the-number-of-good-pairs-i) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/kmaheshbabu75/MY-LEETCODE-JOURNEY/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Two Pointers
@@ -20,6 +21,7 @@ Clean, well-documented LeetCode solutions in java covering core algorithms and d
 |  |
 | ------- |
 | [2481-minimum-cuts-to-divide-a-circle](https://github.com/kmaheshbabu75/MY-LEETCODE-JOURNEY/tree/master/2481-minimum-cuts-to-divide-a-circle) |
+| [2549-count-distinct-numbers-on-board](https://github.com/kmaheshbabu75/MY-LEETCODE-JOURNEY/tree/master/2549-count-distinct-numbers-on-board) |
 | [3560-find-minimum-log-transportation-cost](https://github.com/kmaheshbabu75/MY-LEETCODE-JOURNEY/tree/master/3560-find-minimum-log-transportation-cost) |
 | [3726-remove-zeros-in-decimal-representation](https://github.com/kmaheshbabu75/MY-LEETCODE-JOURNEY/tree/master/3726-remove-zeros-in-decimal-representation) |
 | [3870-count-commas-in-range](https://github.com/kmaheshbabu75/MY-LEETCODE-JOURNEY/tree/master/3870-count-commas-in-range) |
@@ -28,11 +30,13 @@ Clean, well-documented LeetCode solutions in java covering core algorithms and d
 | ------- |
 | [2367-number-of-arithmetic-triplets](https://github.com/kmaheshbabu75/MY-LEETCODE-JOURNEY/tree/master/2367-number-of-arithmetic-triplets) |
 | [2395-find-subarrays-with-equal-sum](https://github.com/kmaheshbabu75/MY-LEETCODE-JOURNEY/tree/master/2395-find-subarrays-with-equal-sum) |
+| [2549-count-distinct-numbers-on-board](https://github.com/kmaheshbabu75/MY-LEETCODE-JOURNEY/tree/master/2549-count-distinct-numbers-on-board) |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/kmaheshbabu75/MY-LEETCODE-JOURNEY/tree/master/3162-find-the-number-of-good-pairs-i) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/kmaheshbabu75/MY-LEETCODE-JOURNEY/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Simulation
 |  |
 | ------- |
+| [2549-count-distinct-numbers-on-board](https://github.com/kmaheshbabu75/MY-LEETCODE-JOURNEY/tree/master/2549-count-distinct-numbers-on-board) |
 | [3726-remove-zeros-in-decimal-representation](https://github.com/kmaheshbabu75/MY-LEETCODE-JOURNEY/tree/master/3726-remove-zeros-in-decimal-representation) |
 ## Bit Manipulation
 |  |

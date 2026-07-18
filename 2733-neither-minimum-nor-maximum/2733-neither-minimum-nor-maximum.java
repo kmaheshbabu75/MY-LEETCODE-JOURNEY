@@ -3,8 +3,10 @@ class Solution {
        if(nums.length < 3){
         return -1;
        } 
-       Arrays.sort(nums);
-
-       return nums[1];
+//    Arrays.sort(nums);
+    int[] firstThree = {nums[0], nums[1], nums[2]};
+        Arrays.sort(firstThree);
+        return firstThree[1];
+    //    return nums[1];
     }
 }

@@ -26,6 +26,7 @@ Clean, well-documented LeetCode solutions in java covering core algorithms and d
 | [2481-minimum-cuts-to-divide-a-circle](https://github.com/kmaheshbabu75/MY-LEETCODE-JOURNEY/tree/master/2481-minimum-cuts-to-divide-a-circle) |
 | [2549-count-distinct-numbers-on-board](https://github.com/kmaheshbabu75/MY-LEETCODE-JOURNEY/tree/master/2549-count-distinct-numbers-on-board) |
 | [3560-find-minimum-log-transportation-cost](https://github.com/kmaheshbabu75/MY-LEETCODE-JOURNEY/tree/master/3560-find-minimum-log-transportation-cost) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/kmaheshbabu75/MY-LEETCODE-JOURNEY/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3726-remove-zeros-in-decimal-representation](https://github.com/kmaheshbabu75/MY-LEETCODE-JOURNEY/tree/master/3726-remove-zeros-in-decimal-representation) |
 | [3870-count-commas-in-range](https://github.com/kmaheshbabu75/MY-LEETCODE-JOURNEY/tree/master/3870-count-commas-in-range) |
 ## Hash Table
@@ -64,4 +65,8 @@ Clean, well-documented LeetCode solutions in java covering core algorithms and d
 |  |
 | ------- |
 | [2315-count-asterisks](https://github.com/kmaheshbabu75/MY-LEETCODE-JOURNEY/tree/master/2315-count-asterisks) |
+## Number Theory
+|  |
+| ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/kmaheshbabu75/MY-LEETCODE-JOURNEY/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->

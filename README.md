@@ -9,6 +9,7 @@ Clean, well-documented LeetCode solutions in java covering core algorithms and d
 | [0283-move-zeroes](https://github.com/kmaheshbabu75/MY-LEETCODE-JOURNEY/tree/master/0283-move-zeroes) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/kmaheshbabu75/MY-LEETCODE-JOURNEY/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2239-find-closest-number-to-zero](https://github.com/kmaheshbabu75/MY-LEETCODE-JOURNEY/tree/master/2239-find-closest-number-to-zero) |
+| [2335-minimum-amount-of-time-to-fill-cups](https://github.com/kmaheshbabu75/MY-LEETCODE-JOURNEY/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
 | [2367-number-of-arithmetic-triplets](https://github.com/kmaheshbabu75/MY-LEETCODE-JOURNEY/tree/master/2367-number-of-arithmetic-triplets) |
 | [2395-find-subarrays-with-equal-sum](https://github.com/kmaheshbabu75/MY-LEETCODE-JOURNEY/tree/master/2395-find-subarrays-with-equal-sum) |
 | [2549-count-distinct-numbers-on-board](https://github.com/kmaheshbabu75/MY-LEETCODE-JOURNEY/tree/master/2549-count-distinct-numbers-on-board) |
@@ -61,6 +62,7 @@ Clean, well-documented LeetCode solutions in java covering core algorithms and d
 ## Sorting
 |  |
 | ------- |
+| [2335-minimum-amount-of-time-to-fill-cups](https://github.com/kmaheshbabu75/MY-LEETCODE-JOURNEY/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
 | [2733-neither-minimum-nor-maximum](https://github.com/kmaheshbabu75/MY-LEETCODE-JOURNEY/tree/master/2733-neither-minimum-nor-maximum) |
 | [2784-check-if-array-is-good](https://github.com/kmaheshbabu75/MY-LEETCODE-JOURNEY/tree/master/2784-check-if-array-is-good) |
 ## String
@@ -72,4 +74,12 @@ Clean, well-documented LeetCode solutions in java covering core algorithms and d
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/kmaheshbabu75/MY-LEETCODE-JOURNEY/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/kmaheshbabu75/MY-LEETCODE-JOURNEY/tree/master/3658-gcd-of-odd-and-even-sums) |
+## Greedy
+|  |
+| ------- |
+| [2335-minimum-amount-of-time-to-fill-cups](https://github.com/kmaheshbabu75/MY-LEETCODE-JOURNEY/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2335-minimum-amount-of-time-to-fill-cups](https://github.com/kmaheshbabu75/MY-LEETCODE-JOURNEY/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
 <!---LeetCode Topics End-->

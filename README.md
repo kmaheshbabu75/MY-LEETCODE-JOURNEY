@@ -8,6 +8,7 @@ Clean, well-documented LeetCode solutions in java covering core algorithms and d
 | ------- |
 | [0283-move-zeroes](https://github.com/kmaheshbabu75/MY-LEETCODE-JOURNEY/tree/master/0283-move-zeroes) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/kmaheshbabu75/MY-LEETCODE-JOURNEY/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [1991-find-the-middle-index-in-array](https://github.com/kmaheshbabu75/MY-LEETCODE-JOURNEY/tree/master/1991-find-the-middle-index-in-array) |
 | [2239-find-closest-number-to-zero](https://github.com/kmaheshbabu75/MY-LEETCODE-JOURNEY/tree/master/2239-find-closest-number-to-zero) |
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/kmaheshbabu75/MY-LEETCODE-JOURNEY/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/kmaheshbabu75/MY-LEETCODE-JOURNEY/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
@@ -98,4 +99,8 @@ Clean, well-documented LeetCode solutions in java covering core algorithms and d
 |  |
 | ------- |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/kmaheshbabu75/MY-LEETCODE-JOURNEY/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Prefix Sum
+|  |
+| ------- |
+| [1991-find-the-middle-index-in-array](https://github.com/kmaheshbabu75/MY-LEETCODE-JOURNEY/tree/master/1991-find-the-middle-index-in-array) |
 <!---LeetCode Topics End-->

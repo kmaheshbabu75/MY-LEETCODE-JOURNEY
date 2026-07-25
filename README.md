@@ -33,6 +33,7 @@ Clean, well-documented LeetCode solutions in java covering core algorithms and d
 | [1979-find-greatest-common-divisor-of-array](https://github.com/kmaheshbabu75/MY-LEETCODE-JOURNEY/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2481-minimum-cuts-to-divide-a-circle](https://github.com/kmaheshbabu75/MY-LEETCODE-JOURNEY/tree/master/2481-minimum-cuts-to-divide-a-circle) |
 | [2549-count-distinct-numbers-on-board](https://github.com/kmaheshbabu75/MY-LEETCODE-JOURNEY/tree/master/2549-count-distinct-numbers-on-board) |
+| [3536-maximum-product-of-two-digits](https://github.com/kmaheshbabu75/MY-LEETCODE-JOURNEY/tree/master/3536-maximum-product-of-two-digits) |
 | [3560-find-minimum-log-transportation-cost](https://github.com/kmaheshbabu75/MY-LEETCODE-JOURNEY/tree/master/3560-find-minimum-log-transportation-cost) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/kmaheshbabu75/MY-LEETCODE-JOURNEY/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3726-remove-zeros-in-decimal-representation](https://github.com/kmaheshbabu75/MY-LEETCODE-JOURNEY/tree/master/3726-remove-zeros-in-decimal-representation) |
@@ -73,6 +74,7 @@ Clean, well-documented LeetCode solutions in java covering core algorithms and d
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/kmaheshbabu75/MY-LEETCODE-JOURNEY/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2733-neither-minimum-nor-maximum](https://github.com/kmaheshbabu75/MY-LEETCODE-JOURNEY/tree/master/2733-neither-minimum-nor-maximum) |
 | [2784-check-if-array-is-good](https://github.com/kmaheshbabu75/MY-LEETCODE-JOURNEY/tree/master/2784-check-if-array-is-good) |
+| [3536-maximum-product-of-two-digits](https://github.com/kmaheshbabu75/MY-LEETCODE-JOURNEY/tree/master/3536-maximum-product-of-two-digits) |
 ## String
 |  |
 | ------- |

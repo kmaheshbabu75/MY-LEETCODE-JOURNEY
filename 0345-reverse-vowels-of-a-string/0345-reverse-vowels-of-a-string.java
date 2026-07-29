@@ -1,30 +1,37 @@
 class Solution {
     public String reverseVowels(String s) {
-        char[] chars = s.toCharArray();
-        int left = 0;
-        int right = s.length() - 1;
+        String VOWELS = "aeiouAEIOU";
+        boolean[] vowelsIdxs = new boolean[126];
 
-        while (left < right) {
-            while (left < right && !(chars[left] == 'a' || chars[left] == 'e' || chars[left] == 'i'
-                    || chars[left] == 'o' || chars[left] == 'u' || chars[left] == 'A' || chars[left] == 'E'
-                    || chars[left] == 'I' || chars[left] == 'O' || chars[left] == 'U')) {
-                left++;
-            }
-            while (left < right && !(chars[right] == 'a' || chars[right] == 'e' || chars[right] == 'i'
-                    || chars[right] == 'o' || chars[right] == 'u' || chars[right] == 'A' || chars[right] == 'E'
-                    || chars[right] == 'I' || chars[right] == 'O' || chars[right] == 'U')) {
-                right--;
+        for (char c : VOWELS.toCharArray()) {
+            vowelsIdxs[c] = true;
+        }
+
+        char[] strArr = s.toCharArray();
+
+        int l = 0;
+        int r = strArr.length - 1;
+
+        while (l < r) {
+
+            while (l < r && !vowelsIdxs[strArr[l]]) {
+                l++;
             }
 
-            if (left < right) {
-                char temp = chars[left];
-                chars[left] = chars[right];
-                chars[right] = temp;
-                left++;
-                right--;
+            while (l < r && !vowelsIdxs[strArr[r]]) {
+                r--;
+            }
+
+            if (l < r) {
+                char temp = strArr[l];
+                strArr[l] = strArr[r];
+                strArr[r] = temp;
+                l++;
+                r--;
             }
         }
 
-        return new String(chars);
+        return new String(strArr);
+
     }
 }

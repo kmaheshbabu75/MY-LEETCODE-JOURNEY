@@ -69,6 +69,7 @@ Clean, well-documented LeetCode solutions in java covering core algorithms and d
 | ------- |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/kmaheshbabu75/MY-LEETCODE-JOURNEY/tree/master/2220-minimum-bit-flips-to-convert-number) |
 | [2595-number-of-even-and-odd-bits](https://github.com/kmaheshbabu75/MY-LEETCODE-JOURNEY/tree/master/2595-number-of-even-and-odd-bits) |
+| [3226-number-of-bit-changes-to-make-two-integers-equal](https://github.com/kmaheshbabu75/MY-LEETCODE-JOURNEY/tree/master/3226-number-of-bit-changes-to-make-two-integers-equal) |
 ## Enumeration
 |  |
 | ------- |

@@ -6,6 +6,7 @@ Clean, well-documented LeetCode solutions in java covering core algorithms and d
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/kmaheshbabu75/MY-LEETCODE-JOURNEY/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/kmaheshbabu75/MY-LEETCODE-JOURNEY/tree/master/0027-remove-element) |
 | [0283-move-zeroes](https://github.com/kmaheshbabu75/MY-LEETCODE-JOURNEY/tree/master/0283-move-zeroes) |
 | [0628-maximum-product-of-three-numbers](https://github.com/kmaheshbabu75/MY-LEETCODE-JOURNEY/tree/master/0628-maximum-product-of-three-numbers) |
@@ -29,6 +30,7 @@ Clean, well-documented LeetCode solutions in java covering core algorithms and d
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/kmaheshbabu75/MY-LEETCODE-JOURNEY/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/kmaheshbabu75/MY-LEETCODE-JOURNEY/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/kmaheshbabu75/MY-LEETCODE-JOURNEY/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0283-move-zeroes](https://github.com/kmaheshbabu75/MY-LEETCODE-JOURNEY/tree/master/0283-move-zeroes) |

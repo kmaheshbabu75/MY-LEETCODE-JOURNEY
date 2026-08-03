@@ -8,6 +8,7 @@ Clean, well-documented LeetCode solutions in java covering core algorithms and d
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/kmaheshbabu75/MY-LEETCODE-JOURNEY/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/kmaheshbabu75/MY-LEETCODE-JOURNEY/tree/master/0027-remove-element) |
+| [0136-single-number](https://github.com/kmaheshbabu75/MY-LEETCODE-JOURNEY/tree/master/0136-single-number) |
 | [0283-move-zeroes](https://github.com/kmaheshbabu75/MY-LEETCODE-JOURNEY/tree/master/0283-move-zeroes) |
 | [0628-maximum-product-of-three-numbers](https://github.com/kmaheshbabu75/MY-LEETCODE-JOURNEY/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/kmaheshbabu75/MY-LEETCODE-JOURNEY/tree/master/0877-stone-game) |
@@ -73,6 +74,7 @@ Clean, well-documented LeetCode solutions in java covering core algorithms and d
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/kmaheshbabu75/MY-LEETCODE-JOURNEY/tree/master/0136-single-number) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/kmaheshbabu75/MY-LEETCODE-JOURNEY/tree/master/2220-minimum-bit-flips-to-convert-number) |
 | [2595-number-of-even-and-odd-bits](https://github.com/kmaheshbabu75/MY-LEETCODE-JOURNEY/tree/master/2595-number-of-even-and-odd-bits) |
 | [3226-number-of-bit-changes-to-make-two-integers-equal](https://github.com/kmaheshbabu75/MY-LEETCODE-JOURNEY/tree/master/3226-number-of-bit-changes-to-make-two-integers-equal) |

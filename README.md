@@ -16,6 +16,7 @@ Clean, well-documented LeetCode solutions in java covering core algorithms and d
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/kmaheshbabu75/MY-LEETCODE-JOURNEY/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/kmaheshbabu75/MY-LEETCODE-JOURNEY/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/kmaheshbabu75/MY-LEETCODE-JOURNEY/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1534-count-good-triplets](https://github.com/kmaheshbabu75/MY-LEETCODE-JOURNEY/tree/master/1534-count-good-triplets) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/kmaheshbabu75/MY-LEETCODE-JOURNEY/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/kmaheshbabu75/MY-LEETCODE-JOURNEY/tree/master/1991-find-the-middle-index-in-array) |
 | [2239-find-closest-number-to-zero](https://github.com/kmaheshbabu75/MY-LEETCODE-JOURNEY/tree/master/2239-find-closest-number-to-zero) |
@@ -81,6 +82,7 @@ Clean, well-documented LeetCode solutions in java covering core algorithms and d
 ## Enumeration
 |  |
 | ------- |
+| [1534-count-good-triplets](https://github.com/kmaheshbabu75/MY-LEETCODE-JOURNEY/tree/master/1534-count-good-triplets) |
 | [2367-number-of-arithmetic-triplets](https://github.com/kmaheshbabu75/MY-LEETCODE-JOURNEY/tree/master/2367-number-of-arithmetic-triplets) |
 ## Geometry
 |  |

@@ -109,6 +109,7 @@ Clean, well-documented LeetCode solutions in java covering core algorithms and d
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/kmaheshbabu75/MY-LEETCODE-JOURNEY/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/kmaheshbabu75/MY-LEETCODE-JOURNEY/tree/master/0345-reverse-vowels-of-a-string) |
 | [0415-add-strings](https://github.com/kmaheshbabu75/MY-LEETCODE-JOURNEY/tree/master/0415-add-strings) |
+| [1374-generate-a-string-with-characters-that-have-odd-counts](https://github.com/kmaheshbabu75/MY-LEETCODE-JOURNEY/tree/master/1374-generate-a-string-with-characters-that-have-odd-counts) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/kmaheshbabu75/MY-LEETCODE-JOURNEY/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/kmaheshbabu75/MY-LEETCODE-JOURNEY/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2315-count-asterisks](https://github.com/kmaheshbabu75/MY-LEETCODE-JOURNEY/tree/master/2315-count-asterisks) |

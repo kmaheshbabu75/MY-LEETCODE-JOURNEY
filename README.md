@@ -46,6 +46,7 @@ Clean, well-documented LeetCode solutions in java covering core algorithms and d
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/kmaheshbabu75/MY-LEETCODE-JOURNEY/tree/master/0070-climbing-stairs) |
 | [0268-missing-number](https://github.com/kmaheshbabu75/MY-LEETCODE-JOURNEY/tree/master/0268-missing-number) |
 | [0415-add-strings](https://github.com/kmaheshbabu75/MY-LEETCODE-JOURNEY/tree/master/0415-add-strings) |
 | [0628-maximum-product-of-three-numbers](https://github.com/kmaheshbabu75/MY-LEETCODE-JOURNEY/tree/master/0628-maximum-product-of-three-numbers) |
@@ -168,6 +169,7 @@ Clean, well-documented LeetCode solutions in java covering core algorithms and d
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/kmaheshbabu75/MY-LEETCODE-JOURNEY/tree/master/0070-climbing-stairs) |
 | [0877-stone-game](https://github.com/kmaheshbabu75/MY-LEETCODE-JOURNEY/tree/master/0877-stone-game) |
 ## Game Theory
 |  |
@@ -182,4 +184,8 @@ Clean, well-documented LeetCode solutions in java covering core algorithms and d
 |  |
 | ------- |
 | [1004-max-consecutive-ones-iii](https://github.com/kmaheshbabu75/MY-LEETCODE-JOURNEY/tree/master/1004-max-consecutive-ones-iii) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/kmaheshbabu75/MY-LEETCODE-JOURNEY/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->

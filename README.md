@@ -48,6 +48,7 @@ Clean, well-documented LeetCode solutions in java covering core algorithms and d
 | ------- |
 | [0070-climbing-stairs](https://github.com/kmaheshbabu75/MY-LEETCODE-JOURNEY/tree/master/0070-climbing-stairs) |
 | [0268-missing-number](https://github.com/kmaheshbabu75/MY-LEETCODE-JOURNEY/tree/master/0268-missing-number) |
+| [0412-fizz-buzz](https://github.com/kmaheshbabu75/MY-LEETCODE-JOURNEY/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/kmaheshbabu75/MY-LEETCODE-JOURNEY/tree/master/0415-add-strings) |
 | [0628-maximum-product-of-three-numbers](https://github.com/kmaheshbabu75/MY-LEETCODE-JOURNEY/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/kmaheshbabu75/MY-LEETCODE-JOURNEY/tree/master/0877-stone-game) |
@@ -77,6 +78,7 @@ Clean, well-documented LeetCode solutions in java covering core algorithms and d
 ## Simulation
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/kmaheshbabu75/MY-LEETCODE-JOURNEY/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/kmaheshbabu75/MY-LEETCODE-JOURNEY/tree/master/0415-add-strings) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/kmaheshbabu75/MY-LEETCODE-JOURNEY/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2549-count-distinct-numbers-on-board](https://github.com/kmaheshbabu75/MY-LEETCODE-JOURNEY/tree/master/2549-count-distinct-numbers-on-board) |
@@ -117,6 +119,7 @@ Clean, well-documented LeetCode solutions in java covering core algorithms and d
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/kmaheshbabu75/MY-LEETCODE-JOURNEY/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/kmaheshbabu75/MY-LEETCODE-JOURNEY/tree/master/0345-reverse-vowels-of-a-string) |
+| [0412-fizz-buzz](https://github.com/kmaheshbabu75/MY-LEETCODE-JOURNEY/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/kmaheshbabu75/MY-LEETCODE-JOURNEY/tree/master/0415-add-strings) |
 | [1374-generate-a-string-with-characters-that-have-odd-counts](https://github.com/kmaheshbabu75/MY-LEETCODE-JOURNEY/tree/master/1374-generate-a-string-with-characters-that-have-odd-counts) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/kmaheshbabu75/MY-LEETCODE-JOURNEY/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |

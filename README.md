@@ -8,6 +8,7 @@ Clean, well-documented LeetCode solutions in java covering core algorithms and d
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/kmaheshbabu75/MY-LEETCODE-JOURNEY/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/kmaheshbabu75/MY-LEETCODE-JOURNEY/tree/master/0027-remove-element) |
+| [0066-plus-one](https://github.com/kmaheshbabu75/MY-LEETCODE-JOURNEY/tree/master/0066-plus-one) |
 | [0136-single-number](https://github.com/kmaheshbabu75/MY-LEETCODE-JOURNEY/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/kmaheshbabu75/MY-LEETCODE-JOURNEY/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/kmaheshbabu75/MY-LEETCODE-JOURNEY/tree/master/0283-move-zeroes) |
@@ -46,6 +47,7 @@ Clean, well-documented LeetCode solutions in java covering core algorithms and d
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/kmaheshbabu75/MY-LEETCODE-JOURNEY/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/kmaheshbabu75/MY-LEETCODE-JOURNEY/tree/master/0070-climbing-stairs) |
 | [0268-missing-number](https://github.com/kmaheshbabu75/MY-LEETCODE-JOURNEY/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/kmaheshbabu75/MY-LEETCODE-JOURNEY/tree/master/0412-fizz-buzz) |

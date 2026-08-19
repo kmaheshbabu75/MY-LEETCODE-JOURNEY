@@ -15,6 +15,7 @@ Clean, well-documented LeetCode solutions in java covering core algorithms and d
 | [0628-maximum-product-of-three-numbers](https://github.com/kmaheshbabu75/MY-LEETCODE-JOURNEY/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/kmaheshbabu75/MY-LEETCODE-JOURNEY/tree/master/0877-stone-game) |
 | [1004-max-consecutive-ones-iii](https://github.com/kmaheshbabu75/MY-LEETCODE-JOURNEY/tree/master/1004-max-consecutive-ones-iii) |
+| [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/kmaheshbabu75/MY-LEETCODE-JOURNEY/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1287-element-appearing-more-than-25-in-sorted-array](https://github.com/kmaheshbabu75/MY-LEETCODE-JOURNEY/tree/master/1287-element-appearing-more-than-25-in-sorted-array) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/kmaheshbabu75/MY-LEETCODE-JOURNEY/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/kmaheshbabu75/MY-LEETCODE-JOURNEY/tree/master/1394-find-lucky-integer-in-an-array) |
@@ -54,6 +55,7 @@ Clean, well-documented LeetCode solutions in java covering core algorithms and d
 | [0415-add-strings](https://github.com/kmaheshbabu75/MY-LEETCODE-JOURNEY/tree/master/0415-add-strings) |
 | [0628-maximum-product-of-three-numbers](https://github.com/kmaheshbabu75/MY-LEETCODE-JOURNEY/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/kmaheshbabu75/MY-LEETCODE-JOURNEY/tree/master/0877-stone-game) |
+| [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/kmaheshbabu75/MY-LEETCODE-JOURNEY/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/kmaheshbabu75/MY-LEETCODE-JOURNEY/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2481-minimum-cuts-to-divide-a-circle](https://github.com/kmaheshbabu75/MY-LEETCODE-JOURNEY/tree/master/2481-minimum-cuts-to-divide-a-circle) |
 | [2549-count-distinct-numbers-on-board](https://github.com/kmaheshbabu75/MY-LEETCODE-JOURNEY/tree/master/2549-count-distinct-numbers-on-board) |
@@ -137,6 +139,7 @@ Clean, well-documented LeetCode solutions in java covering core algorithms and d
 ## Greedy
 |  |
 | ------- |
+| [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/kmaheshbabu75/MY-LEETCODE-JOURNEY/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/kmaheshbabu75/MY-LEETCODE-JOURNEY/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/kmaheshbabu75/MY-LEETCODE-JOURNEY/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/kmaheshbabu75/MY-LEETCODE-JOURNEY/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |

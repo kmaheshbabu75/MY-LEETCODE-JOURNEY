@@ -34,6 +34,7 @@ Clean, well-documented LeetCode solutions in java covering core algorithms and d
 | [2733-neither-minimum-nor-maximum](https://github.com/kmaheshbabu75/MY-LEETCODE-JOURNEY/tree/master/2733-neither-minimum-nor-maximum) |
 | [2784-check-if-array-is-good](https://github.com/kmaheshbabu75/MY-LEETCODE-JOURNEY/tree/master/2784-check-if-array-is-good) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/kmaheshbabu75/MY-LEETCODE-JOURNEY/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3131-find-the-integer-added-to-array-i](https://github.com/kmaheshbabu75/MY-LEETCODE-JOURNEY/tree/master/3131-find-the-integer-added-to-array-i) |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/kmaheshbabu75/MY-LEETCODE-JOURNEY/tree/master/3162-find-the-number-of-good-pairs-i) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/kmaheshbabu75/MY-LEETCODE-JOURNEY/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Two Pointers

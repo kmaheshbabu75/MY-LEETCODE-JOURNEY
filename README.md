@@ -20,6 +20,7 @@ Clean, well-documented LeetCode solutions in java covering core algorithms and d
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/kmaheshbabu75/MY-LEETCODE-JOURNEY/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/kmaheshbabu75/MY-LEETCODE-JOURNEY/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/kmaheshbabu75/MY-LEETCODE-JOURNEY/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1528-shuffle-string](https://github.com/kmaheshbabu75/MY-LEETCODE-JOURNEY/tree/master/1528-shuffle-string) |
 | [1534-count-good-triplets](https://github.com/kmaheshbabu75/MY-LEETCODE-JOURNEY/tree/master/1534-count-good-triplets) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/kmaheshbabu75/MY-LEETCODE-JOURNEY/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/kmaheshbabu75/MY-LEETCODE-JOURNEY/tree/master/1991-find-the-middle-index-in-array) |
@@ -127,6 +128,7 @@ Clean, well-documented LeetCode solutions in java covering core algorithms and d
 | [0412-fizz-buzz](https://github.com/kmaheshbabu75/MY-LEETCODE-JOURNEY/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/kmaheshbabu75/MY-LEETCODE-JOURNEY/tree/master/0415-add-strings) |
 | [1374-generate-a-string-with-characters-that-have-odd-counts](https://github.com/kmaheshbabu75/MY-LEETCODE-JOURNEY/tree/master/1374-generate-a-string-with-characters-that-have-odd-counts) |
+| [1528-shuffle-string](https://github.com/kmaheshbabu75/MY-LEETCODE-JOURNEY/tree/master/1528-shuffle-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/kmaheshbabu75/MY-LEETCODE-JOURNEY/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/kmaheshbabu75/MY-LEETCODE-JOURNEY/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2315-count-asterisks](https://github.com/kmaheshbabu75/MY-LEETCODE-JOURNEY/tree/master/2315-count-asterisks) |

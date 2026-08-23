@@ -30,6 +30,7 @@ Clean, well-documented LeetCode solutions in java covering core algorithms and d
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/kmaheshbabu75/MY-LEETCODE-JOURNEY/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2367-number-of-arithmetic-triplets](https://github.com/kmaheshbabu75/MY-LEETCODE-JOURNEY/tree/master/2367-number-of-arithmetic-triplets) |
 | [2395-find-subarrays-with-equal-sum](https://github.com/kmaheshbabu75/MY-LEETCODE-JOURNEY/tree/master/2395-find-subarrays-with-equal-sum) |
+| [2496-maximum-value-of-a-string-in-an-array](https://github.com/kmaheshbabu75/MY-LEETCODE-JOURNEY/tree/master/2496-maximum-value-of-a-string-in-an-array) |
 | [2549-count-distinct-numbers-on-board](https://github.com/kmaheshbabu75/MY-LEETCODE-JOURNEY/tree/master/2549-count-distinct-numbers-on-board) |
 | [2643-row-with-maximum-ones](https://github.com/kmaheshbabu75/MY-LEETCODE-JOURNEY/tree/master/2643-row-with-maximum-ones) |
 | [2733-neither-minimum-nor-maximum](https://github.com/kmaheshbabu75/MY-LEETCODE-JOURNEY/tree/master/2733-neither-minimum-nor-maximum) |
@@ -132,6 +133,7 @@ Clean, well-documented LeetCode solutions in java covering core algorithms and d
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/kmaheshbabu75/MY-LEETCODE-JOURNEY/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/kmaheshbabu75/MY-LEETCODE-JOURNEY/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2315-count-asterisks](https://github.com/kmaheshbabu75/MY-LEETCODE-JOURNEY/tree/master/2315-count-asterisks) |
+| [2496-maximum-value-of-a-string-in-an-array](https://github.com/kmaheshbabu75/MY-LEETCODE-JOURNEY/tree/master/2496-maximum-value-of-a-string-in-an-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/kmaheshbabu75/MY-LEETCODE-JOURNEY/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3110-score-of-a-string](https://github.com/kmaheshbabu75/MY-LEETCODE-JOURNEY/tree/master/3110-score-of-a-string) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/kmaheshbabu75/MY-LEETCODE-JOURNEY/tree/master/3517-smallest-palindromic-rearrangement-i) |

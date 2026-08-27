@@ -1,16 +1,18 @@
 class Solution {
     public int countConsistentStrings(String allowed, String[] words) {
-        boolean[] isAllowed = new boolean[26];
+        int allowedMask = 0;
         
         for (char c : allowed.toCharArray()) {
-            isAllowed[c - 'a'] = true;
+            allowedMask |= (1 << (c - 'a'));
         }
         
         int consistentCount = 0;
+        
         for (String word : words) {
             boolean isConsistent = true;
             for (char c : word.toCharArray()) {
-                if (!isAllowed[c - 'a']) {
+
+                if ((allowedMask & (1 << (c - 'a'))) == 0) {
                     isConsistent = false;
                     break;
                 }
@@ -19,6 +21,7 @@ class Solution {
                 consistentCount++;
             }
         }
+        
         return consistentCount;
     }
 }

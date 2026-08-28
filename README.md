@@ -40,6 +40,7 @@ Clean, well-documented LeetCode solutions in java covering core algorithms and d
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/kmaheshbabu75/MY-LEETCODE-JOURNEY/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3131-find-the-integer-added-to-array-i](https://github.com/kmaheshbabu75/MY-LEETCODE-JOURNEY/tree/master/3131-find-the-integer-added-to-array-i) |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/kmaheshbabu75/MY-LEETCODE-JOURNEY/tree/master/3162-find-the-number-of-good-pairs-i) |
+| [3354-make-array-elements-equal-to-zero](https://github.com/kmaheshbabu75/MY-LEETCODE-JOURNEY/tree/master/3354-make-array-elements-equal-to-zero) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/kmaheshbabu75/MY-LEETCODE-JOURNEY/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Two Pointers
 |  |
@@ -92,6 +93,7 @@ Clean, well-documented LeetCode solutions in java covering core algorithms and d
 | [0415-add-strings](https://github.com/kmaheshbabu75/MY-LEETCODE-JOURNEY/tree/master/0415-add-strings) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/kmaheshbabu75/MY-LEETCODE-JOURNEY/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2549-count-distinct-numbers-on-board](https://github.com/kmaheshbabu75/MY-LEETCODE-JOURNEY/tree/master/2549-count-distinct-numbers-on-board) |
+| [3354-make-array-elements-equal-to-zero](https://github.com/kmaheshbabu75/MY-LEETCODE-JOURNEY/tree/master/3354-make-array-elements-equal-to-zero) |
 | [3726-remove-zeros-in-decimal-representation](https://github.com/kmaheshbabu75/MY-LEETCODE-JOURNEY/tree/master/3726-remove-zeros-in-decimal-representation) |
 ## Bit Manipulation
 |  |
@@ -174,6 +176,7 @@ Clean, well-documented LeetCode solutions in java covering core algorithms and d
 | ------- |
 | [1004-max-consecutive-ones-iii](https://github.com/kmaheshbabu75/MY-LEETCODE-JOURNEY/tree/master/1004-max-consecutive-ones-iii) |
 | [1991-find-the-middle-index-in-array](https://github.com/kmaheshbabu75/MY-LEETCODE-JOURNEY/tree/master/1991-find-the-middle-index-in-array) |
+| [3354-make-array-elements-equal-to-zero](https://github.com/kmaheshbabu75/MY-LEETCODE-JOURNEY/tree/master/3354-make-array-elements-equal-to-zero) |
 ## Counting
 |  |
 | ------- |

@@ -10,6 +10,7 @@ Clean, well-documented LeetCode solutions in java covering core algorithms and d
 | [0027-remove-element](https://github.com/kmaheshbabu75/MY-LEETCODE-JOURNEY/tree/master/0027-remove-element) |
 | [0066-plus-one](https://github.com/kmaheshbabu75/MY-LEETCODE-JOURNEY/tree/master/0066-plus-one) |
 | [0136-single-number](https://github.com/kmaheshbabu75/MY-LEETCODE-JOURNEY/tree/master/0136-single-number) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/kmaheshbabu75/MY-LEETCODE-JOURNEY/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/kmaheshbabu75/MY-LEETCODE-JOURNEY/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/kmaheshbabu75/MY-LEETCODE-JOURNEY/tree/master/0283-move-zeroes) |
 | [0628-maximum-product-of-three-numbers](https://github.com/kmaheshbabu75/MY-LEETCODE-JOURNEY/tree/master/0628-maximum-product-of-three-numbers) |
@@ -48,6 +49,7 @@ Clean, well-documented LeetCode solutions in java covering core algorithms and d
 | [0026-remove-duplicates-from-sorted-array](https://github.com/kmaheshbabu75/MY-LEETCODE-JOURNEY/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/kmaheshbabu75/MY-LEETCODE-JOURNEY/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/kmaheshbabu75/MY-LEETCODE-JOURNEY/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/kmaheshbabu75/MY-LEETCODE-JOURNEY/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/kmaheshbabu75/MY-LEETCODE-JOURNEY/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/kmaheshbabu75/MY-LEETCODE-JOURNEY/tree/master/0345-reverse-vowels-of-a-string) |
 | [2367-number-of-arithmetic-triplets](https://github.com/kmaheshbabu75/MY-LEETCODE-JOURNEY/tree/master/2367-number-of-arithmetic-triplets) |
@@ -203,6 +205,7 @@ Clean, well-documented LeetCode solutions in java covering core algorithms and d
 ## Binary Search
 |  |
 | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/kmaheshbabu75/MY-LEETCODE-JOURNEY/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/kmaheshbabu75/MY-LEETCODE-JOURNEY/tree/master/0268-missing-number) |
 | [1004-max-consecutive-ones-iii](https://github.com/kmaheshbabu75/MY-LEETCODE-JOURNEY/tree/master/1004-max-consecutive-ones-iii) |
 ## Sliding Window

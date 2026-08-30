@@ -26,6 +26,7 @@ Clean, well-documented LeetCode solutions in java covering core algorithms and d
 | [1684-count-the-number-of-consistent-strings](https://github.com/kmaheshbabu75/MY-LEETCODE-JOURNEY/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/kmaheshbabu75/MY-LEETCODE-JOURNEY/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/kmaheshbabu75/MY-LEETCODE-JOURNEY/tree/master/1991-find-the-middle-index-in-array) |
+| [2053-kth-distinct-string-in-an-array](https://github.com/kmaheshbabu75/MY-LEETCODE-JOURNEY/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/kmaheshbabu75/MY-LEETCODE-JOURNEY/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/kmaheshbabu75/MY-LEETCODE-JOURNEY/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2239-find-closest-number-to-zero](https://github.com/kmaheshbabu75/MY-LEETCODE-JOURNEY/tree/master/2239-find-closest-number-to-zero) |
@@ -80,6 +81,7 @@ Clean, well-documented LeetCode solutions in java covering core algorithms and d
 | [0268-missing-number](https://github.com/kmaheshbabu75/MY-LEETCODE-JOURNEY/tree/master/0268-missing-number) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/kmaheshbabu75/MY-LEETCODE-JOURNEY/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/kmaheshbabu75/MY-LEETCODE-JOURNEY/tree/master/1684-count-the-number-of-consistent-strings) |
+| [2053-kth-distinct-string-in-an-array](https://github.com/kmaheshbabu75/MY-LEETCODE-JOURNEY/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/kmaheshbabu75/MY-LEETCODE-JOURNEY/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2367-number-of-arithmetic-triplets](https://github.com/kmaheshbabu75/MY-LEETCODE-JOURNEY/tree/master/2367-number-of-arithmetic-triplets) |
 | [2395-find-subarrays-with-equal-sum](https://github.com/kmaheshbabu75/MY-LEETCODE-JOURNEY/tree/master/2395-find-subarrays-with-equal-sum) |
@@ -140,6 +142,7 @@ Clean, well-documented LeetCode solutions in java covering core algorithms and d
 | [1528-shuffle-string](https://github.com/kmaheshbabu75/MY-LEETCODE-JOURNEY/tree/master/1528-shuffle-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/kmaheshbabu75/MY-LEETCODE-JOURNEY/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/kmaheshbabu75/MY-LEETCODE-JOURNEY/tree/master/1684-count-the-number-of-consistent-strings) |
+| [2053-kth-distinct-string-in-an-array](https://github.com/kmaheshbabu75/MY-LEETCODE-JOURNEY/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/kmaheshbabu75/MY-LEETCODE-JOURNEY/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/kmaheshbabu75/MY-LEETCODE-JOURNEY/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2315-count-asterisks](https://github.com/kmaheshbabu75/MY-LEETCODE-JOURNEY/tree/master/2315-count-asterisks) |
@@ -184,6 +187,7 @@ Clean, well-documented LeetCode solutions in java covering core algorithms and d
 | ------- |
 | [1394-find-lucky-integer-in-an-array](https://github.com/kmaheshbabu75/MY-LEETCODE-JOURNEY/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/kmaheshbabu75/MY-LEETCODE-JOURNEY/tree/master/1684-count-the-number-of-consistent-strings) |
+| [2053-kth-distinct-string-in-an-array](https://github.com/kmaheshbabu75/MY-LEETCODE-JOURNEY/tree/master/2053-kth-distinct-string-in-an-array) |
 ## String Matching
 |  |
 | ------- |

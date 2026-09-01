@@ -54,6 +54,7 @@ Clean, well-documented LeetCode solutions in java covering core algorithms and d
 | [0283-move-zeroes](https://github.com/kmaheshbabu75/MY-LEETCODE-JOURNEY/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/kmaheshbabu75/MY-LEETCODE-JOURNEY/tree/master/0345-reverse-vowels-of-a-string) |
 | [2367-number-of-arithmetic-triplets](https://github.com/kmaheshbabu75/MY-LEETCODE-JOURNEY/tree/master/2367-number-of-arithmetic-triplets) |
+| [3794-reverse-string-prefix](https://github.com/kmaheshbabu75/MY-LEETCODE-JOURNEY/tree/master/3794-reverse-string-prefix) |
 ## Math
 |  |
 | ------- |
@@ -150,6 +151,7 @@ Clean, well-documented LeetCode solutions in java covering core algorithms and d
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/kmaheshbabu75/MY-LEETCODE-JOURNEY/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3110-score-of-a-string](https://github.com/kmaheshbabu75/MY-LEETCODE-JOURNEY/tree/master/3110-score-of-a-string) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/kmaheshbabu75/MY-LEETCODE-JOURNEY/tree/master/3517-smallest-palindromic-rearrangement-i) |
+| [3794-reverse-string-prefix](https://github.com/kmaheshbabu75/MY-LEETCODE-JOURNEY/tree/master/3794-reverse-string-prefix) |
 ## Number Theory
 |  |
 | ------- |

@@ -46,6 +46,7 @@ Clean, well-documented LeetCode solutions in java covering core algorithms and d
 | [3354-make-array-elements-equal-to-zero](https://github.com/kmaheshbabu75/MY-LEETCODE-JOURNEY/tree/master/3354-make-array-elements-equal-to-zero) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/kmaheshbabu75/MY-LEETCODE-JOURNEY/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3838-weighted-word-mapping](https://github.com/kmaheshbabu75/MY-LEETCODE-JOURNEY/tree/master/3838-weighted-word-mapping) |
+| [3898-find-the-degree-of-each-vertex](https://github.com/kmaheshbabu75/MY-LEETCODE-JOURNEY/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Two Pointers
 |  |
 | ------- |
@@ -180,6 +181,7 @@ Clean, well-documented LeetCode solutions in java covering core algorithms and d
 |  |
 | ------- |
 | [2643-row-with-maximum-ones](https://github.com/kmaheshbabu75/MY-LEETCODE-JOURNEY/tree/master/2643-row-with-maximum-ones) |
+| [3898-find-the-degree-of-each-vertex](https://github.com/kmaheshbabu75/MY-LEETCODE-JOURNEY/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Stack
 |  |
 | ------- |
@@ -228,4 +230,8 @@ Clean, well-documented LeetCode solutions in java covering core algorithms and d
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/kmaheshbabu75/MY-LEETCODE-JOURNEY/tree/master/0070-climbing-stairs) |
+## Graph Theory
+|  |
+| ------- |
+| [3898-find-the-degree-of-each-vertex](https://github.com/kmaheshbabu75/MY-LEETCODE-JOURNEY/tree/master/3898-find-the-degree-of-each-vertex) |
 <!---LeetCode Topics End-->

@@ -103,6 +103,7 @@ Clean, well-documented LeetCode solutions in java covering core algorithms and d
 | [0415-add-strings](https://github.com/kmaheshbabu75/MY-LEETCODE-JOURNEY/tree/master/0415-add-strings) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/kmaheshbabu75/MY-LEETCODE-JOURNEY/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2549-count-distinct-numbers-on-board](https://github.com/kmaheshbabu75/MY-LEETCODE-JOURNEY/tree/master/2549-count-distinct-numbers-on-board) |
+| [3174-clear-digits](https://github.com/kmaheshbabu75/MY-LEETCODE-JOURNEY/tree/master/3174-clear-digits) |
 | [3354-make-array-elements-equal-to-zero](https://github.com/kmaheshbabu75/MY-LEETCODE-JOURNEY/tree/master/3354-make-array-elements-equal-to-zero) |
 | [3726-remove-zeros-in-decimal-representation](https://github.com/kmaheshbabu75/MY-LEETCODE-JOURNEY/tree/master/3726-remove-zeros-in-decimal-representation) |
 | [3838-weighted-word-mapping](https://github.com/kmaheshbabu75/MY-LEETCODE-JOURNEY/tree/master/3838-weighted-word-mapping) |
@@ -156,6 +157,7 @@ Clean, well-documented LeetCode solutions in java covering core algorithms and d
 | [2496-maximum-value-of-a-string-in-an-array](https://github.com/kmaheshbabu75/MY-LEETCODE-JOURNEY/tree/master/2496-maximum-value-of-a-string-in-an-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/kmaheshbabu75/MY-LEETCODE-JOURNEY/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3110-score-of-a-string](https://github.com/kmaheshbabu75/MY-LEETCODE-JOURNEY/tree/master/3110-score-of-a-string) |
+| [3174-clear-digits](https://github.com/kmaheshbabu75/MY-LEETCODE-JOURNEY/tree/master/3174-clear-digits) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/kmaheshbabu75/MY-LEETCODE-JOURNEY/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3794-reverse-string-prefix](https://github.com/kmaheshbabu75/MY-LEETCODE-JOURNEY/tree/master/3794-reverse-string-prefix) |
 | [3838-weighted-word-mapping](https://github.com/kmaheshbabu75/MY-LEETCODE-JOURNEY/tree/master/3838-weighted-word-mapping) |
@@ -186,6 +188,7 @@ Clean, well-documented LeetCode solutions in java covering core algorithms and d
 |  |
 | ------- |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/kmaheshbabu75/MY-LEETCODE-JOURNEY/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [3174-clear-digits](https://github.com/kmaheshbabu75/MY-LEETCODE-JOURNEY/tree/master/3174-clear-digits) |
 ## Prefix Sum
 |  |
 | ------- |

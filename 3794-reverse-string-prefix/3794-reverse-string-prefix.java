@@ -12,8 +12,7 @@ class Solution {
         //     chars[right] = temp;
         //     left++;
         //     right--;
-        // }
-        
+        // } 
         // return new String(chars);
         StringBuilder prefix = new StringBuilder(s.substring(0, k)).reverse();
         return prefix.append(s.substring(k)).toString();

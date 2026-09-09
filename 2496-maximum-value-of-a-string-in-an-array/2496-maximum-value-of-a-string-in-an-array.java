@@ -1,7 +1,6 @@
 // class Solution {
 //     public int maximumValue(String[] strs) {
-//         int maxVal = 0;
-        
+//         int maxVal = 0;        
 //         for (String s : strs) {
 //             boolean isNumeric = true;
 //             for (char c : s.toCharArray()) {

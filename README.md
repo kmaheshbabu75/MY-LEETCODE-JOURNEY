@@ -161,6 +161,7 @@ Clean, well-documented LeetCode solutions in java covering core algorithms and d
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/kmaheshbabu75/MY-LEETCODE-JOURNEY/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3794-reverse-string-prefix](https://github.com/kmaheshbabu75/MY-LEETCODE-JOURNEY/tree/master/3794-reverse-string-prefix) |
 | [3838-weighted-word-mapping](https://github.com/kmaheshbabu75/MY-LEETCODE-JOURNEY/tree/master/3838-weighted-word-mapping) |
+| [3931-check-adjacent-digit-differences](https://github.com/kmaheshbabu75/MY-LEETCODE-JOURNEY/tree/master/3931-check-adjacent-digit-differences) |
 ## Number Theory
 |  |
 | ------- |

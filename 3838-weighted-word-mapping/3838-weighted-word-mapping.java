@@ -8,13 +8,10 @@ class Solution {
             for (char c : word.toCharArray()) {
                 currentWeight += weights[c - 'a'];
             }
-            
             int mod = currentWeight % 26;
             char mappedChar = (char) ('z' - mod);
-            
             result.append(mappedChar);
         }
-        
         return result.toString();
     }
 }

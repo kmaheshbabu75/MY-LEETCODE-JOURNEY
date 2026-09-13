@@ -3,7 +3,6 @@ class Solution {
         int[] result = new int[2];
         int[] count = new int[nums.length];
         int idx = 0;
-        
         for (int num : nums) {
             count[num]++;
             if (count[num] == 2) {
@@ -13,7 +12,6 @@ class Solution {
                 }
             }
         }
-        
         return result;
     }
 }

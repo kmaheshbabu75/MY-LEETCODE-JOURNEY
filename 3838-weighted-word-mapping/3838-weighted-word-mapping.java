@@ -4,7 +4,6 @@ class Solution {
         
         for (String word : words) {
             int currentWeight = 0;
-            
             for (char c : word.toCharArray()) {
                 currentWeight += weights[c - 'a'];
             }

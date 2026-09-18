@@ -1,6 +1,5 @@
 class Solution {
     public int[] getSneakyNumbers(int[] nums) {
-        
         int[] result = new int[2];
         int[] count = new int[nums.length];
         int idx = 0;

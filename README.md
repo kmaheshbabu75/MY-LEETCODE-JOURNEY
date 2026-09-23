@@ -10,6 +10,7 @@ Clean, well-documented LeetCode solutions in java covering core algorithms and d
 | [0026-remove-duplicates-from-sorted-array](https://github.com/kmaheshbabu75/MY-LEETCODE-JOURNEY/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/kmaheshbabu75/MY-LEETCODE-JOURNEY/tree/master/0027-remove-element) |
 | [0066-plus-one](https://github.com/kmaheshbabu75/MY-LEETCODE-JOURNEY/tree/master/0066-plus-one) |
+| [0075-sort-colors](https://github.com/kmaheshbabu75/MY-LEETCODE-JOURNEY/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/kmaheshbabu75/MY-LEETCODE-JOURNEY/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/kmaheshbabu75/MY-LEETCODE-JOURNEY/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/kmaheshbabu75/MY-LEETCODE-JOURNEY/tree/master/0268-missing-number) |
@@ -55,6 +56,7 @@ Clean, well-documented LeetCode solutions in java covering core algorithms and d
 | [0026-remove-duplicates-from-sorted-array](https://github.com/kmaheshbabu75/MY-LEETCODE-JOURNEY/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/kmaheshbabu75/MY-LEETCODE-JOURNEY/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/kmaheshbabu75/MY-LEETCODE-JOURNEY/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0075-sort-colors](https://github.com/kmaheshbabu75/MY-LEETCODE-JOURNEY/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/kmaheshbabu75/MY-LEETCODE-JOURNEY/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/kmaheshbabu75/MY-LEETCODE-JOURNEY/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/kmaheshbabu75/MY-LEETCODE-JOURNEY/tree/master/0345-reverse-vowels-of-a-string) |
@@ -132,6 +134,7 @@ Clean, well-documented LeetCode solutions in java covering core algorithms and d
 |  |
 | ------- |
 | [0015-3sum](https://github.com/kmaheshbabu75/MY-LEETCODE-JOURNEY/tree/master/0015-3sum) |
+| [0075-sort-colors](https://github.com/kmaheshbabu75/MY-LEETCODE-JOURNEY/tree/master/0075-sort-colors) |
 | [0268-missing-number](https://github.com/kmaheshbabu75/MY-LEETCODE-JOURNEY/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/kmaheshbabu75/MY-LEETCODE-JOURNEY/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/kmaheshbabu75/MY-LEETCODE-JOURNEY/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -241,4 +244,12 @@ Clean, well-documented LeetCode solutions in java covering core algorithms and d
 |  |
 | ------- |
 | [3898-find-the-degree-of-each-vertex](https://github.com/kmaheshbabu75/MY-LEETCODE-JOURNEY/tree/master/3898-find-the-degree-of-each-vertex) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/kmaheshbabu75/MY-LEETCODE-JOURNEY/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/kmaheshbabu75/MY-LEETCODE-JOURNEY/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->

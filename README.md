@@ -6,6 +6,7 @@ Clean, well-documented LeetCode solutions in java covering core algorithms and d
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/kmaheshbabu75/MY-LEETCODE-JOURNEY/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/kmaheshbabu75/MY-LEETCODE-JOURNEY/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/kmaheshbabu75/MY-LEETCODE-JOURNEY/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/kmaheshbabu75/MY-LEETCODE-JOURNEY/tree/master/0027-remove-element) |
@@ -52,6 +53,7 @@ Clean, well-documented LeetCode solutions in java covering core algorithms and d
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/kmaheshbabu75/MY-LEETCODE-JOURNEY/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/kmaheshbabu75/MY-LEETCODE-JOURNEY/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/kmaheshbabu75/MY-LEETCODE-JOURNEY/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/kmaheshbabu75/MY-LEETCODE-JOURNEY/tree/master/0027-remove-element) |
@@ -176,6 +178,7 @@ Clean, well-documented LeetCode solutions in java covering core algorithms and d
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/kmaheshbabu75/MY-LEETCODE-JOURNEY/tree/master/0011-container-with-most-water) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/kmaheshbabu75/MY-LEETCODE-JOURNEY/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/kmaheshbabu75/MY-LEETCODE-JOURNEY/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/kmaheshbabu75/MY-LEETCODE-JOURNEY/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |

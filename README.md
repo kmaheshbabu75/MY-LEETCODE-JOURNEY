@@ -16,6 +16,7 @@ Clean, well-documented LeetCode solutions in java covering core algorithms and d
 | [0075-sort-colors](https://github.com/kmaheshbabu75/MY-LEETCODE-JOURNEY/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/kmaheshbabu75/MY-LEETCODE-JOURNEY/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/kmaheshbabu75/MY-LEETCODE-JOURNEY/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0239-sliding-window-maximum](https://github.com/kmaheshbabu75/MY-LEETCODE-JOURNEY/tree/master/0239-sliding-window-maximum) |
 | [0268-missing-number](https://github.com/kmaheshbabu75/MY-LEETCODE-JOURNEY/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/kmaheshbabu75/MY-LEETCODE-JOURNEY/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/kmaheshbabu75/MY-LEETCODE-JOURNEY/tree/master/0485-max-consecutive-ones) |
@@ -195,6 +196,7 @@ Clean, well-documented LeetCode solutions in java covering core algorithms and d
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/kmaheshbabu75/MY-LEETCODE-JOURNEY/tree/master/0239-sliding-window-maximum) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/kmaheshbabu75/MY-LEETCODE-JOURNEY/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/kmaheshbabu75/MY-LEETCODE-JOURNEY/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/kmaheshbabu75/MY-LEETCODE-JOURNEY/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
@@ -251,6 +253,7 @@ Clean, well-documented LeetCode solutions in java covering core algorithms and d
 ## Sliding Window
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/kmaheshbabu75/MY-LEETCODE-JOURNEY/tree/master/0239-sliding-window-maximum) |
 | [0713-subarray-product-less-than-k](https://github.com/kmaheshbabu75/MY-LEETCODE-JOURNEY/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/kmaheshbabu75/MY-LEETCODE-JOURNEY/tree/master/1004-max-consecutive-ones-iii) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/kmaheshbabu75/MY-LEETCODE-JOURNEY/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -274,4 +277,16 @@ Clean, well-documented LeetCode solutions in java covering core algorithms and d
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/kmaheshbabu75/MY-LEETCODE-JOURNEY/tree/master/0042-trapping-rain-water) |
+## Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/kmaheshbabu75/MY-LEETCODE-JOURNEY/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/kmaheshbabu75/MY-LEETCODE-JOURNEY/tree/master/0239-sliding-window-maximum) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/kmaheshbabu75/MY-LEETCODE-JOURNEY/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->

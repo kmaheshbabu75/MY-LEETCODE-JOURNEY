@@ -23,6 +23,7 @@ Clean, well-documented LeetCode solutions in java covering core algorithms and d
 | [0628-maximum-product-of-three-numbers](https://github.com/kmaheshbabu75/MY-LEETCODE-JOURNEY/tree/master/0628-maximum-product-of-three-numbers) |
 | [0713-subarray-product-less-than-k](https://github.com/kmaheshbabu75/MY-LEETCODE-JOURNEY/tree/master/0713-subarray-product-less-than-k) |
 | [0877-stone-game](https://github.com/kmaheshbabu75/MY-LEETCODE-JOURNEY/tree/master/0877-stone-game) |
+| [0904-fruit-into-baskets](https://github.com/kmaheshbabu75/MY-LEETCODE-JOURNEY/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/kmaheshbabu75/MY-LEETCODE-JOURNEY/tree/master/1004-max-consecutive-ones-iii) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/kmaheshbabu75/MY-LEETCODE-JOURNEY/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1287-element-appearing-more-than-25-in-sorted-array](https://github.com/kmaheshbabu75/MY-LEETCODE-JOURNEY/tree/master/1287-element-appearing-more-than-25-in-sorted-array) |
@@ -98,6 +99,7 @@ Clean, well-documented LeetCode solutions in java covering core algorithms and d
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/kmaheshbabu75/MY-LEETCODE-JOURNEY/tree/master/0268-missing-number) |
+| [0904-fruit-into-baskets](https://github.com/kmaheshbabu75/MY-LEETCODE-JOURNEY/tree/master/0904-fruit-into-baskets) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/kmaheshbabu75/MY-LEETCODE-JOURNEY/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/kmaheshbabu75/MY-LEETCODE-JOURNEY/tree/master/1684-count-the-number-of-consistent-strings) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/kmaheshbabu75/MY-LEETCODE-JOURNEY/tree/master/2053-kth-distinct-string-in-an-array) |
@@ -255,6 +257,7 @@ Clean, well-documented LeetCode solutions in java covering core algorithms and d
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/kmaheshbabu75/MY-LEETCODE-JOURNEY/tree/master/0239-sliding-window-maximum) |
 | [0713-subarray-product-less-than-k](https://github.com/kmaheshbabu75/MY-LEETCODE-JOURNEY/tree/master/0713-subarray-product-less-than-k) |
+| [0904-fruit-into-baskets](https://github.com/kmaheshbabu75/MY-LEETCODE-JOURNEY/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/kmaheshbabu75/MY-LEETCODE-JOURNEY/tree/master/1004-max-consecutive-ones-iii) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/kmaheshbabu75/MY-LEETCODE-JOURNEY/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Memoization

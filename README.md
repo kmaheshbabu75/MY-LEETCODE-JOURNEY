@@ -56,6 +56,7 @@ Clean, well-documented LeetCode solutions in java covering core algorithms and d
 | [3162-find-the-number-of-good-pairs-i](https://github.com/kmaheshbabu75/MY-LEETCODE-JOURNEY/tree/master/3162-find-the-number-of-good-pairs-i) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/kmaheshbabu75/MY-LEETCODE-JOURNEY/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3354-make-array-elements-equal-to-zero](https://github.com/kmaheshbabu75/MY-LEETCODE-JOURNEY/tree/master/3354-make-array-elements-equal-to-zero) |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/kmaheshbabu75/MY-LEETCODE-JOURNEY/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/kmaheshbabu75/MY-LEETCODE-JOURNEY/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3838-weighted-word-mapping](https://github.com/kmaheshbabu75/MY-LEETCODE-JOURNEY/tree/master/3838-weighted-word-mapping) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/kmaheshbabu75/MY-LEETCODE-JOURNEY/tree/master/3898-find-the-degree-of-each-vertex) |
@@ -92,6 +93,7 @@ Clean, well-documented LeetCode solutions in java covering core algorithms and d
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/kmaheshbabu75/MY-LEETCODE-JOURNEY/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/kmaheshbabu75/MY-LEETCODE-JOURNEY/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/kmaheshbabu75/MY-LEETCODE-JOURNEY/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/kmaheshbabu75/MY-LEETCODE-JOURNEY/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3536-maximum-product-of-two-digits](https://github.com/kmaheshbabu75/MY-LEETCODE-JOURNEY/tree/master/3536-maximum-product-of-two-digits) |
 | [3560-find-minimum-log-transportation-cost](https://github.com/kmaheshbabu75/MY-LEETCODE-JOURNEY/tree/master/3560-find-minimum-log-transportation-cost) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/kmaheshbabu75/MY-LEETCODE-JOURNEY/tree/master/3658-gcd-of-odd-and-even-sums) |

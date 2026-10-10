@@ -23,6 +23,7 @@ Clean, well-documented LeetCode solutions in java covering core algorithms and d
 | [0485-max-consecutive-ones](https://github.com/kmaheshbabu75/MY-LEETCODE-JOURNEY/tree/master/0485-max-consecutive-ones) |
 | [0628-maximum-product-of-three-numbers](https://github.com/kmaheshbabu75/MY-LEETCODE-JOURNEY/tree/master/0628-maximum-product-of-three-numbers) |
 | [0713-subarray-product-less-than-k](https://github.com/kmaheshbabu75/MY-LEETCODE-JOURNEY/tree/master/0713-subarray-product-less-than-k) |
+| [0724-find-pivot-index](https://github.com/kmaheshbabu75/MY-LEETCODE-JOURNEY/tree/master/0724-find-pivot-index) |
 | [0877-stone-game](https://github.com/kmaheshbabu75/MY-LEETCODE-JOURNEY/tree/master/0877-stone-game) |
 | [0904-fruit-into-baskets](https://github.com/kmaheshbabu75/MY-LEETCODE-JOURNEY/tree/master/0904-fruit-into-baskets) |
 | [0992-subarrays-with-k-different-integers](https://github.com/kmaheshbabu75/MY-LEETCODE-JOURNEY/tree/master/0992-subarrays-with-k-different-integers) |
@@ -223,6 +224,7 @@ Clean, well-documented LeetCode solutions in java covering core algorithms and d
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/kmaheshbabu75/MY-LEETCODE-JOURNEY/tree/master/0209-minimum-size-subarray-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/kmaheshbabu75/MY-LEETCODE-JOURNEY/tree/master/0713-subarray-product-less-than-k) |
+| [0724-find-pivot-index](https://github.com/kmaheshbabu75/MY-LEETCODE-JOURNEY/tree/master/0724-find-pivot-index) |
 | [1004-max-consecutive-ones-iii](https://github.com/kmaheshbabu75/MY-LEETCODE-JOURNEY/tree/master/1004-max-consecutive-ones-iii) |
 | [1991-find-the-middle-index-in-array](https://github.com/kmaheshbabu75/MY-LEETCODE-JOURNEY/tree/master/1991-find-the-middle-index-in-array) |
 | [3354-make-array-elements-equal-to-zero](https://github.com/kmaheshbabu75/MY-LEETCODE-JOURNEY/tree/master/3354-make-array-elements-equal-to-zero) |

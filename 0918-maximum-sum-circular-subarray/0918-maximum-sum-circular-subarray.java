@@ -9,7 +9,6 @@ class Solution {
             totalSum += num;   
             currMax = Math.max(currMax + num, num);
             maxSum = Math.max(maxSum, currMax);
-            
             currMin = Math.min(currMin + num, num);
             minSum = Math.min(minSum, currMin);
         }

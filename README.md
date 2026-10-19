@@ -41,6 +41,7 @@ Clean, well-documented LeetCode solutions in java covering core algorithms and d
 | [1979-find-greatest-common-divisor-of-array](https://github.com/kmaheshbabu75/MY-LEETCODE-JOURNEY/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/kmaheshbabu75/MY-LEETCODE-JOURNEY/tree/master/1991-find-the-middle-index-in-array) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/kmaheshbabu75/MY-LEETCODE-JOURNEY/tree/master/2053-kth-distinct-string-in-an-array) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/kmaheshbabu75/MY-LEETCODE-JOURNEY/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/kmaheshbabu75/MY-LEETCODE-JOURNEY/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/kmaheshbabu75/MY-LEETCODE-JOURNEY/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2239-find-closest-number-to-zero](https://github.com/kmaheshbabu75/MY-LEETCODE-JOURNEY/tree/master/2239-find-closest-number-to-zero) |
@@ -160,6 +161,7 @@ Clean, well-documented LeetCode solutions in java covering core algorithms and d
 | [0268-missing-number](https://github.com/kmaheshbabu75/MY-LEETCODE-JOURNEY/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/kmaheshbabu75/MY-LEETCODE-JOURNEY/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/kmaheshbabu75/MY-LEETCODE-JOURNEY/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/kmaheshbabu75/MY-LEETCODE-JOURNEY/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/kmaheshbabu75/MY-LEETCODE-JOURNEY/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/kmaheshbabu75/MY-LEETCODE-JOURNEY/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2733-neither-minimum-nor-maximum](https://github.com/kmaheshbabu75/MY-LEETCODE-JOURNEY/tree/master/2733-neither-minimum-nor-maximum) |
@@ -265,6 +267,7 @@ Clean, well-documented LeetCode solutions in java covering core algorithms and d
 | [0268-missing-number](https://github.com/kmaheshbabu75/MY-LEETCODE-JOURNEY/tree/master/0268-missing-number) |
 | [0713-subarray-product-less-than-k](https://github.com/kmaheshbabu75/MY-LEETCODE-JOURNEY/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/kmaheshbabu75/MY-LEETCODE-JOURNEY/tree/master/1004-max-consecutive-ones-iii) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/kmaheshbabu75/MY-LEETCODE-JOURNEY/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Sliding Window
 |  |
 | ------- |
